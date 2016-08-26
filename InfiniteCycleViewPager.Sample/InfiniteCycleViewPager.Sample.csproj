@@ -57,11 +57,11 @@
     <Reference Include="Xamarin.Android.Support.v7.CardView">
       <HintPath>..\packages\Xamarin.Android.Support.v7.CardView.23.4.0.1\lib\MonoAndroid403\Xamarin.Android.Support.v7.CardView.dll</HintPath>
     </Reference>
-    <Reference Include="NavigationTabStrip">
-      <HintPath>..\..\NavigationTabStrip\NavigationTabStrip\bin\Debug\NavigationTabStrip.dll</HintPath>
-    </Reference>
     <Reference Include="Glide">
       <HintPath>..\packages\Glide.Xamarin.3.7.0\lib\Glide.dll</HintPath>
+    </Reference>
+    <Reference Include="NavigationTabStrip">
+      <HintPath>..\packages\Xam.Plugins.Android.NavigationTabStrip.1.0.4\lib\MonoAndroid\NavigationTabStrip.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
