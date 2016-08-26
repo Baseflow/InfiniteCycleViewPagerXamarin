@@ -7,3 +7,4 @@ Xamarin bindings library for InfiniteCycleViewPager [library](https://github.com
 Plugin is available on [Nuget](https://www.nuget.org/packages/Xam.Plugins.Android.InfiniteCycleViewPager/).
 
 See the sample for implementation.
+The sample makes use of [NavigationTabStripXamarin](https://github.com/martijn00/NavigationTabStripXamarin)
