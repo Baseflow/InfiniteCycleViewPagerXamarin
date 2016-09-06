@@ -18,6 +18,9 @@ namespace InfiniteCycleViewPager.Sample.Screens
 
             var verticalInfiniteCycleViewPager = view.FindViewById<VerticalInfiniteCycleViewPager>(Resource.Id.vicvp);
             verticalInfiniteCycleViewPager.Adapter = new VerticalPagerAdapter(Context, null);
+
+            //verticalInfiniteCycleViewPager.ScrollDuration = 1000;
+            //verticalInfiniteCycleViewPager.StartAutoScroll(true);
         }
     }
 }
